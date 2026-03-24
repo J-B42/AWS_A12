@@ -1,4 +1,4 @@
-# README
+# Readme
 
 Author: James B.
 version: 1.0
